@@ -1,6 +1,6 @@
 
 ### Hi there 👋 | I'm Nicole
-- 🔭 I’m currently studying Software Engineering at National Major San Marcos University.
+- 🔭 I’m currently studying Software Engineering at San Marcos University (UNMSM).
 - 🌱 I’m currently learning React.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicole-tumi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
