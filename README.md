@@ -1,6 +1,7 @@
 
 ### Hi there 👋 | I'm Nicole
 - 🔭 I’m currently studying Software Engineering at San Marcos University (UNMSM).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-tumi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🌱 I’m currently learning React.
