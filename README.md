@@ -2,7 +2,7 @@
 ### Hi there 👋 | I'm Nicole
 - 🔭 I've graduated in Software Engineering at San Marcos University (UNMSM).
 - 🌱 I’m currently learning JavaScript and React.
-- 👩‍💻 Connect with me here! <a href="https://www.linkedin.com/in/nicole-tumi"> LinkedIn </a>
+- 👩‍💻 Connect with me on <a href="https://www.linkedin.com/in/nicole-tumi"> LinkedIn </a>!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-tumi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
